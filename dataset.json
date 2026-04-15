@@ -1,14 +1,50 @@
 [
   {
-    "task": "Parse an AWS S3 bucket name from a full S3 URI (e.g., 's3://my-bucket-name/path/to/file.txt') and extract just the bucket name",
-    "format": "regex"
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon training - sustained energy for long-distance running",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan emphasizes complex carbohydrates as primary energy source for endurance",
+      "Includes adequate hydration guidance throughout the day",
+      "Distributes calories evenly across 4-6 meals/snacks to maintain sustained energy levels",
+      "Plan is compact and fits within a single day format"
+    ],
+    "task_description": "Write a compact, concise, 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport requiring high endurance and sustained energy (e.g., marathon runner) to verify the meal plan emphasizes complex carbohydrates, adequate hydration, and distributed calorie intake throughout the day"
   },
   {
-    "task": "Create a JSON configuration object for an AWS Lambda function that specifies the function name, runtime (Python 3.11), timeout (30 seconds), and memory size (256 MB)",
-    "format": "json"
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Muscle recovery and strength building for competitive weightlifting",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers exactly 1 day with all meals and snacks specified",
+      "Protein is distributed across all meals (minimum 25g per meal) to support muscle recovery",
+      "Includes post-workout nutrition within 1-2 hours of training with carbohydrates and protein",
+      "Incorporates micronutrient-dense foods (iron, magnesium, zinc, B vitamins) relevant to strength athletes"
+    ],
+    "task_description": "Write a compact, concise, 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport requiring rapid muscle recovery and strength building (e.g., weightlifter) to ensure the meal plan prioritizes adequate protein distribution, micronutrient density, and post-workout nutrition timing"
   },
   {
-    "task": "Write a Python function that takes an AWS CloudWatch log entry timestamp string in ISO format and returns the time difference in seconds from the current time",
-    "format": "python"
+    "prompt_inputs": {
+      "height": "165",
+      "weight": "58",
+      "goal": "optimize performance and recovery for competitive gymnastics",
+      "restrictions": "vegan (no animal products)"
+    },
+    "solution_criteria": [
+      "Meal plan is 1 day, compact format with breakfast, lunch, dinner, and snacks",
+      "All meals and snacks are vegan-compliant with no animal products",
+      "Nutritionally supports gymnastics performance with adequate protein, carbohydrates, and micronutrients for a 58kg athlete",
+      "Meals are practical and realistic to prepare within a single day"
+    ],
+    "task_description": "Write a compact, concise, 1 day meal plan for a single athlete",
+    "scenario": "Testing with an athlete having specific dietary restrictions (e.g., vegan gymnast) to confirm the meal plan accommodates performance needs while maintaining ethical or health-based constraints without compromising nutritional completeness"
   }
 ]

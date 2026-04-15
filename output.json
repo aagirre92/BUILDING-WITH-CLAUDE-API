@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# One-Day Meal Plan for Marathon Runner\n**68 kg Male, Marathon Training - Sustained Energy**\n\n---\n\n## Daily Calorie Target: 3,100 calories\n**Macronutrient Breakdown:**\n- Protein: 115g (15%)\n- Carbohydrates: 515g (67%)\n- Fat: 78g (23%)\n\n---\n\n## BREAKFAST (7:00 AM) | 650 calories\n\n**Carb-Loading Pancakes**\n- Whole wheat pancake mix: 60g\n- Eggs: 2 large\n- Banana: 150g\n- Maple syrup: 30g\n- Vegetable oil: 10ml\n\n*Macros: 18g protein | 105g carbs | 15g fat*\n\n---\n\n## MID-MORNING SNACK (10:00 AM) | 380 calories\n\n**Energy Bar & Juice**\n- Granola bar (homemade or store): 80g\n- Orange juice (fresh): 300ml\n- Dates (dried): 40g\n\n*Macros: 8g protein | 92g carbs | 6g fat*\n\n---\n\n## LUNCH (1:00 PM) | 800 calories\n\n**Pasta Power Bowl**\n- Whole wheat pasta (cooked): 250g\n- Lean ground turkey: 150g\n- Marinara sauce: 150g\n- Zucchini (saut\u00e9ed): 120g\n- Olive oil: 10ml\n- Parmesan cheese: 20g\n\n*Macros: 36g protein | 112g carbs | 18g fat*\n\n---\n\n## PRE-WORKOUT SNACK (3:30 PM) | 420 calories\n\n**Quick Carbs for Energy**\n- White bread: 80g\n- Honey: 25g\n- Banana: 120g\n- Almond butter: 15g\n\n*Macros: 10g protein | 95g carbs | 8g fat*\n\n---\n\n## POST-WORKOUT MEAL (5:30 PM | Within 60 min of run) | 600 calories\n\n**Chicken & Rice Recovery**\n- Grilled chicken breast: 180g\n- White rice (cooked): 200g\n- Carrots (steamed): 100g\n- Low-fat milk: 200ml\n\n*Macros: 38g protein | 95g carbs | 12g fat*\n\n---\n\n## EVENING SNACK (8:00 PM) | 250 calories\n\n**Light Recovery Shake**\n- Greek yogurt (low-fat): 180g\n- Granola: 40g\n- Mixed berries: 80g\n- Honey: 10g\n\n*Macros: 15g protein | 40g carbs | 3g fat*\n\n---\n\n## **DAILY TOTALS**\n- **Calories: 3,100** \u2713\n- **Protein: 125g** \u2713\n- **Carbohydrates: 539g** \u2713\n- **Fat: 62g** \u2713\n\n---\n\n## HYDRATION & SUPPLEMENTS\n- Water: 3.5-4 liters throughout day\n- During long runs (90+ min): Sports drink with 6-8% carbs or electrolyte drink\n- Electrolyte tablets or coconut water for recovery\n- Multivitamin: 1 serving (daily)\n\n---\n\n## NOTES FOR OPTIMAL MARATHON TRAINING\n\n\u2713 **Carb-loading focus**: 67% of calories from carbs fuels endurance performance  \n\u2713 **Timing is critical**: Post-workout meal within 60 minutes replenishes glycogen stores  \n\u2713 **Moderate protein**: Adequate for recovery without excess weight  \n\u2713 **Easy digestion**: Foods chosen for quick absorption during training  \n\u2713 **Budget-friendly**: Uses affordable whole grains, lean proteins, and seasonal produce  \n\u2713 **Hydration essential**: Drink 500ml water with each meal, sip throughout the day  \n\u2713 **Adjust portions**: On heavy training days (+15km), add 300-400 extra calories of carbs  \n\u2713 **",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Marathon training - sustained energy for long-distance running",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan emphasizes complex carbohydrates as primary energy source for endurance",
+        "Includes adequate hydration guidance throughout the day",
+        "Distributes calories evenly across 4-6 meals/snacks to maintain sustained energy levels",
+        "Plan is compact and fits within a single day format"
+      ],
+      "task_description": "Write a compact, concise, 1 day meal plan for a single athlete",
+      "scenario": "Testing with a sport requiring high endurance and sustained energy (e.g., marathon runner) to verify the meal plan emphasizes complex carbohydrates, adequate hydration, and distributed calorie intake throughout the day"
+    },
+    "score": 9,
+    "reasoning": "The solution comprehensively satisfies all mandatory requirements with precise daily totals, macronutrient breakdowns, and detailed meal specifications including portions and timing. It strongly addresses the secondary criteria by prioritizing complex carbohydrates (67%), providing extensive hydration guidance, and distributing 6 meals/snacks evenly throughout the day for sustained energy. The plan is appropriately compact and single-day formatted. The primary issues are a minor mathematical inconsistency in the macro summary section and an incomplete final note, neither of which undermines the core functionality or usability of the meal plan. The solution is practical, well-organized, and directly tailored to marathon training nutrition needs."
+  },
+  {
+    "output": "# One-Day Meal Plan for Competitive Weightlifter\n**85 kg Male, Muscle Recovery & Strength Building**\n\n---\n\n## Daily Calorie Target: 3,200 calories\n**Macronutrient Breakdown:**\n- Protein: 170g (21%)\n- Carbohydrates: 400g (50%)\n- Fat: 107g (30%)\n\n---\n\n## BREAKFAST (7:00 AM) | 750 calories\n\n**Oatmeal Power Bowl**\n- Rolled oats: 80g\n- Whole milk: 250ml\n- Banana: 120g\n- Almond butter: 30g\n- Honey: 20g\n\n*Macros: 28g protein | 98g carbs | 24g fat*\n\n---\n\n## MID-MORNING SNACK (10:00 AM) | 350 calories\n\n**Protein Smoothie**\n- Greek yogurt: 200g\n- Whey protein powder: 30g\n- Berries (mixed): 100g\n- Oat milk: 200ml\n- Chia seeds: 10g\n\n*Macros: 35g protein | 42g carbs | 8g fat*\n\n---\n\n## LUNCH (1:00 PM) | 900 calories\n\n**Grilled Chicken & Rice Bowl**\n- Chicken breast (grilled): 220g\n- Brown rice (cooked): 200g\n- Broccoli (steamed): 150g\n- Olive oil: 15ml\n- Salt & pepper to taste\n\n*Macros: 52g protein | 95g carbs | 18g fat*\n\n---\n\n## PRE-WORKOUT SNACK (3:30 PM) | 280 calories\n\n**Quick Carb + Protein**\n- Rice cakes: 40g\n- Peanut butter: 20g\n- Apple: 180g\n\n*Macros: 12g protein | 38g carbs | 9g fat*\n\n---\n\n## POST-WORKOUT MEAL (5:30 PM) | 920 calories\n\n**Salmon & Sweet Potato**\n- Grilled salmon fillet: 200g\n- Sweet potato (baked): 250g\n- Green beans (steamed): 120g\n- Avocado: 80g\n- Lemon juice: 10ml\n\n*Macros: 43g protein | 127g carbs | 48g fat*\n\n---\n\n## EVENING SNACK (8:00 PM) | 300 calories\n\n**Casein Protein Shake**\n- Cottage cheese: 200g\n- Almonds (raw): 30g\n- Blueberries: 100g\n- Natural honey: 15g\n\n*Macros: 28g protein | 30g carbs | 12g fat*\n\n---\n\n## **DAILY TOTALS**\n- **Calories: 3,200**\n- **Protein: 198g** \u2713\n- **Carbohydrates: 430g** \u2713\n- **Fat: 119g** \u2713\n\n---\n\n## HYDRATION & SUPPLEMENTS\n- Water: 3-4 liters throughout day\n- During workout (60-90 min): Electrolyte drink or sports drink (optional)\n- Multivitamin: 1 serving (daily)\n\n---\n\n## NOTES FOR OPTIMAL RESULTS\n\u2713 Eat post-workout meal within 60 minutes of training  \n\u2713 Distribute protein evenly (30-35g per meal)  \n\u2713 Time carbs around training for energy & recovery  \n\u2713 Stay hydrated\u2014drink water consistently  \n\u2713 This plan is budget-friendly and uses whole foods",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "85 kg",
+        "goal": "Muscle recovery and strength building for competitive weightlifting",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan covers exactly 1 day with all meals and snacks specified",
+        "Protein is distributed across all meals (minimum 25g per meal) to support muscle recovery",
+        "Includes post-workout nutrition within 1-2 hours of training with carbohydrates and protein",
+        "Incorporates micronutrient-dense foods (iron, magnesium, zinc, B vitamins) relevant to strength athletes"
+      ],
+      "task_description": "Write a compact, concise, 1 day meal plan for a single athlete",
+      "scenario": "Testing with a sport requiring rapid muscle recovery and strength building (e.g., weightlifter) to ensure the meal plan prioritizes adequate protein distribution, micronutrient density, and post-workout nutrition timing"
+    },
+    "score": 9,
+    "reasoning": "The solution comprehensively meets all mandatory requirements with clear daily totals, detailed macronutrient breakdowns, and precisely timed meals with exact portions. The meal plan demonstrates strong understanding of athlete nutrition with excellent protein distribution and strategically timed post-workout nutrition. The secondary criteria regarding micronutrient-dense foods are largely satisfied through food selection (salmon for omega-3s and B vitamins, broccoli for iron and magnesium, sweet potato for potassium), though explicit micronutrient verification is absent. The plan is practical, well-organized, and appropriately tailored to a 85kg competitive weightlifter's recovery and strength-building goals."
+  },
+  {
+    "output": "# One-Day Meal Plan for Competitive Gymnast\n**58 kg Female, Vegan Performance & Recovery**\n\n---\n\n## Daily Calorie Target: 2,400 calories\n**Macronutrient Breakdown:**\n- Protein: 110g (18%)\n- Carbohydrates: 320g (53%)\n- Fat: 80g (30%)\n\n---\n\n## BREAKFAST (7:00 AM) | 520 calories\n\n**Tofu Scramble & Whole Grain Toast**\n- Firm tofu: 150g\n- Whole grain bread: 60g\n- Vegan butter: 15g\n- Spinach (fresh): 80g\n- Nutritional yeast: 10g\n- Black pepper & turmeric to taste\n\n*Macros: 18g protein | 48g carbs | 18g fat*\n\n---\n\n## MID-MORNING SNACK (10:00 AM) | 290 calories\n\n**Protein-Packed Smoothie**\n- Pea protein powder: 25g\n- Banana: 100g\n- Almond milk: 250ml\n- Almond butter: 20g\n- Flax seeds: 10g\n\n*Macros: 22g protein | 35g carbs | 12g fat*\n\n---\n\n## LUNCH (1:00 PM) | 680 calories\n\n**Quinoa & Chickpea Buddha Bowl**\n- Cooked quinoa: 150g\n- Canned chickpeas (drained): 120g\n- Sweet potato (roasted): 120g\n- Kale (massaged): 100g\n- Tahini dressing: 20g\n- Lemon juice & garlic to taste\n\n*Macros: 18g protein | 82g carbs | 18g fat*\n\n---\n\n## PRE-WORKOUT SNACK (3:30 PM) | 310 calories\n\n**Energy Bites & Fruit**\n- Dates (pitted): 80g\n- Cashew butter: 15g\n- Oats: 40g\n- Apple: 150g\n\n*Macros: 8g protein | 65g carbs | 10g fat*\n\n---\n\n## POST-WORKOUT MEAL (5:30 PM) | 420 calories\n\n**Lentil Pasta with Marinara**\n- Lentil pasta (cooked): 110g\n- Marinara sauce (no oil added): 200g\n- Hemp seeds: 15g\n- Whole wheat bread: 40g\n- Olive oil: 10ml\n\n*Macros: 20g protein | 50g carbs | 14g fat*\n\n---\n\n## EVENING SNACK (8:00 PM) | 180 calories\n\n**Nut Butter & Whole Grains**\n- Whole grain crackers: 35g\n- Sunflower seed butter: 20g\n- Blueberries: 80g\n\n*Macros: 8g protein | 18g carbs | 10g fat*\n\n---\n\n## **DAILY TOTALS**\n- **Calories: 2,400** \u2713\n- **Protein: 94g** \u2713\n- **Carbohydrates: 298g** \u2713\n- **Fat: 82g** \u2713\n\n---\n\n## HYDRATION & SUPPLEMENTS\n- Water: 2.5-3 liters throughout day\n- During workout (60+ min): Coconut water or sports drink with electrolytes\n- **Supplements (VEGAN):**\n  - Vitamin B12: 2,000 mcg weekly or daily 25-100 mcg\n  - Vitamin D3 (algae-based): 1,000-2,000 IU daily\n  - Omega-3 (algae-based): 200-300mg EPA/DHA daily\n  - Iron supplement or fortified foods (monitor levels)\n\n---\n\n## NOTES FOR OPTIMAL RESULTS\n\u2713 Post-workout meal within 45 minutes of training for muscle recovery  \n\u2713 Protein spread across 5 meals (18-22g per meal)  \n\u2713 Complex carbs",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "165",
+        "weight": "58",
+        "goal": "optimize performance and recovery for competitive gymnastics",
+        "restrictions": "vegan (no animal products)"
+      },
+      "solution_criteria": [
+        "Meal plan is 1 day, compact format with breakfast, lunch, dinner, and snacks",
+        "All meals and snacks are vegan-compliant with no animal products",
+        "Nutritionally supports gymnastics performance with adequate protein, carbohydrates, and micronutrients for a 58kg athlete",
+        "Meals are practical and realistic to prepare within a single day"
+      ],
+      "task_description": "Write a compact, concise, 1 day meal plan for a single athlete",
+      "scenario": "Testing with an athlete having specific dietary restrictions (e.g., vegan gymnast) to confirm the meal plan accommodates performance needs while maintaining ethical or health-based constraints without compromising nutritional completeness"
+    },
+    "score": 7,
+    "reasoning": "The solution successfully meets all three mandatory requirements with clear presentation of daily calories, macronutrient breakdown, and detailed meals with portions and timing. The plan is compact, well-organized, and practical for a single day. Vegan compliance is thorough and well-executed. However, there is a notable discrepancy between the stated protein target (110g) and actual daily total (94g), which undermines the nutritional adequacy claim for a competitive gymnast. The incomplete final note suggests editing oversight. Despite these issues, the core requirements are met and the plan demonstrates strong understanding of vegan athletic nutrition with appropriate supplementation guidance."
+  }
+]
